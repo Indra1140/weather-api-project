@@ -1,1 +1,4 @@
-[# Weather-API](http://127.0.0.1:5000/weather/jakarta)
+# Weather API Project
+Proyek ini adalah tugas backend dari roadmap.sh.
+
+**Project URL:** https://roadmap.sh/projects/weather-api-wrapper-service
